@@ -5,6 +5,8 @@
  */
 package probando;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Adal Joscef + Adalsm
@@ -16,6 +18,8 @@ public class Probando {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        JOptionPane.showMessageDialog(null, "Hola Esto es una prueba");
     }
     
 }
