@@ -20,6 +20,10 @@ public class Probando {
         // TODO code application logic here
         
         JOptionPane.showMessageDialog(null, "Hola Esto es una prueba");
+         JOptionPane.showMessageDialog(null, "Hola Esto es una prueba");
+         JOptionPane.showMessageDialog(null, "Hola Esto es una prueba");
+        JOptionPane.showMessageDialog(null, "Hola Esto es una prueba");
+         JOptionPane.showMessageDialog(null, "Hol) "sssssssssssssddddasnmnu bas una prue)
     }
     
 }
